@@ -1,6 +1,6 @@
 {
   "name": "@archin/vue-api-query",
-  "version": "1.9.2",
+  "version": "1.9.3",
   "description": "💎 Elegant and simple way to build requests for REST API",
   "main": "build/index.js",
   "types": "./index.d.ts",
